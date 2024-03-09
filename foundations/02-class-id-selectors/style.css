@@ -1,0 +1,29 @@
+.pink {
+  background-color: pink;
+  font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+    "Lucida Sans", Arial, sans-serif;
+}
+
+.one,
+.five {
+  font-size: 1.5em;
+}
+
+.three {
+  font-size: 3em;
+}
+
+div {
+  font-family: "Times New Roman", Times, serif;
+}
+
+#two {
+  font-size: 4em;
+  color: blue;
+}
+
+#four {
+  font-weight: bold;
+  font-size: 2.5em;
+  background-color: lightgreen;
+}
